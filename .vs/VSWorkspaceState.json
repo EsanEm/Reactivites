@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Application",
+    "\\Application\\Activities"
   ],
+  "SelectedNode": "\\Application\\Activities",
   "PreviewInSolutionExplorer": false
 }
